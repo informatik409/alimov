@@ -96,7 +96,7 @@ export default {
   box-sizing: border-box;
 }
 .weather {
-  background-image: url("./src/assets/img/weather.jpg");
+  background-image: url("@/assets/img/weather.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -107,7 +107,7 @@ export default {
   align-items: center;
 }
 .weather.warm {
-  background-image: url("./src/assets/img/warm.jpg");
+  background-image: url("@/assets/img/warm.jpg");
 }
 .search-box {
   width: 35%;
