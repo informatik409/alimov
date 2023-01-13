@@ -4,7 +4,7 @@
           <div class="text">Hi, my name is Mahsud and I am a <br> Web Developer!</div>
       </div>
       <div class="home-img" v-motion-roll-right>
-          <img src="assets/img/homepage.png" alt="home">
+          <img src="@/assets/img/homepage.png" alt="home">
       </div>
   </div>
 </template>

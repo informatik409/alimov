@@ -3,9 +3,7 @@ import { MotionPlugin } from '@vueuse/motion'
 import { autoAnimatePlugin } from '@formkit/auto-animate/vue'
 import App from './components/app/App.vue'
 import router from './router'
-// import './axios'
-
-import '../assets/css/style.css'
+import '@/assets/css/style.css'
 
 
 

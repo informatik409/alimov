@@ -7,7 +7,7 @@
             <div class="projects-main">
                 <div class="projects-box">
                     <div class="projects-box-img">
-                        <img src="assets/img/projects/3d-edu.jpg" alt="">
+                        <img src="@/assets/img/projects/3d-edu.jpg" alt="">
                     </div>
                     <div class="projects-box-main">
                         <div class="box-main-name">Project Name: <span>3D O'quv Markazi</span></div>
@@ -23,7 +23,7 @@
 
                 <div class="projects-box">
                     <div class="projects-box-img">
-                        <img src="assets/img/projects/e-mamba.jpg" alt="">
+                        <img src="@/assets/img/projects/e-mamba.jpg" alt="">
                     </div>
                     <div class="projects-box-main">
                         <div class="box-main-name">Project Name: <span>E-mamba</span></div>

@@ -1,9 +1,9 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
-import AboutPage from "./components/app/routers/AboutPage.vue"
-import HomePage from "./components/app/routers/HomePage.vue"
-import WeatherPage from "./components/app/routers/WeatherPage.vue"
-import ProjectPage from "./components/app/routers/ProjectPage.vue"
-import ContactPage from "./components/app/routers/ContactPage.vue"
+import AboutPage from "@/components/app/router/AboutPage.vue"
+import HomePage from "@/components/app/router/HomePage.vue"
+import WeatherPage from "@/components/app/router/WeatherPage.vue"
+import ProjectPage from "@/components/app/router/ProjectPage.vue"
+import ContactPage from "@/components/app/router/ContactPage.vue"
 
 export default createRouter({
     history: createWebHashHistory(),

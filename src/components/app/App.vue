@@ -11,7 +11,7 @@
         <div class="nav-img">
             <!-- <a href="#"> -->
               <router-link to="/">
-                <img src="assets/img/logo.png.png" alt="">
+                <img src="@/assets/img/logo.png" alt="">
               </router-link>
             <!-- </a> -->
         </div>
@@ -92,11 +92,9 @@
     <router-view></router-view>
 </template>
 <script>
-import Post from './routers/ContactPage.vue';
+
 export default {
-  comments: {
-    Post
-  }
+
 }
 </script>
 <style>

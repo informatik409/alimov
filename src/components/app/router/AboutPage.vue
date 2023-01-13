@@ -5,7 +5,7 @@
         <div class="text">Hello Everyone This is About Page</div>
       </div>
       <div class="about-img" v-motion-roll-right>
-        <img src="assets/img/about.png" alt="about" />
+        <img src="@/assets/img/about.png" alt="about" />
       </div>
     </div>
     <div class="info">
@@ -31,46 +31,46 @@
       </div>
       <div class="slider-items">
         <div class="slide">
-          <img src="assets/img/html.png" alt="html">
+          <img src="@/assets/img/html.png" alt="html">
         </div>
         <div class="slide">
-        <img src="assets/img/css.png" alt="css">
+        <img src="@/assets/img/css.png" alt="css">
         </div>
         <div class="slide">
-          <img src="assets/img/js.png" alt="js">
+          <img src="@/assets/img/js.png" alt="js">
         </div>
         <div class="slide">
-          <img src="assets/img/sass.png" alt="sass">
+          <img src="@/assets/img/sass.png" alt="sass">
         </div>
         <div class="slide">
-          <img src="assets/img/bootsrap.png" alt="bootsrap">
+          <img src="@/assets/img/bootsrap.png" alt="bootsrap">
         </div>
         <div class="slide">
-          <img src="assets/img/laravel.png" alt="laravel">
+          <img src="@/assets/img/laravel.png" alt="laravel">
         </div>
         <div class="slide">
-          <img src="assets/img/vue.png" alt="laravel">
+          <img src="@/assets/img/vue.png" alt="laravel">
         </div>
         <div class="slide">
-          <img src="assets/img/html.png" alt="html">
+          <img src="@/assets/img/html.png" alt="html">
         </div>
         <div class="slide">
-        <img src="assets/img/css.png" alt="css">
+        <img src="@/assets/img/css.png" alt="css">
         </div>
         <div class="slide">
-          <img src="assets/img/js.png" alt="js">
+          <img src="@/assets/img/js.png" alt="js">
         </div>
         <div class="slide">
-          <img src="assets/img/sass.png" alt="sass">
+          <img src="@/assets/img/sass.png" alt="sass">
         </div>
         <div class="slide">
-          <img src="assets/img/bootsrap.png" alt="bootsrap">
+          <img src="@/assets/img/bootsrap.png" alt="bootsrap">
         </div>
         <div class="slide">
-          <img src="assets/img/laravel.png" alt="laravel">
+          <img src="@/assets/img/laravel.png" alt="laravel">
         </div>
         <div class="slide">
-          <img src="assets/img/vue.png" alt="laravel">
+          <img src="@/assets/img/vue.png" alt="laravel">
         </div>
       </div>
     </div>
